@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 MiniGPT-2 From Scratch
+# 🤖 MiniGPT From Scratch
 
 ### Building a GPT-style Transformer Language Model using PyTorch
 
